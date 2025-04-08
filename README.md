@@ -28,7 +28,7 @@ além de exibir informações adicionais úteis.
 
 - O usuário informa seu peso(em kg) e sua altura(em metros)
 - Ao clicar no botão Calcular IMC, o sistema faz o cálculo utilizando a fórmula: IMC = peso / (altura * altura)
-- Com base no resultado, a aplicação mostra a classificação IMC(abaixodo peso, normal, sobrepeso etc.)
+- Com base no resultado, a aplicação mostra a classificação IMC(abaixo do peso, normal, sobrepeso etc.)
 - Calcula e exibe também o peso mínimo ideal e o peso máximo ideal de acordo com a altura informada
 
 

@@ -15,7 +15,7 @@
 
 ---
 
-### 🔴 Observação: o pacote node_modules terá que ser baixado logo após clonar o projeto, usando o seguinte comando no terminal: npm install
+### 🔴 Observação: o pacote node_modules terá que ser baixado logo após clonar o projeto. Dentro da pasta do projeto use o seguinte comando no terminal: npm install
 
 ---
 

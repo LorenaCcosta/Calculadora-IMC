@@ -15,6 +15,10 @@
 
 ---
 
+### 🔴 Observação: o pacote node_modules terá que ser baixado logo após clonar o projeto, usando o seguinte comando no terminal: npm install
+
+---
+
 ## ✅ Sobre o projeto:
 
 Este projeto é uma Calculadora de IMC utilizando React Native e Expo, desenvolvida com o objetivo de praticar os conhecimentos em programação e lógica de desenvolvimento. A calculadora permiti que o usuário calcule seu imc a partir da altura e peso informados,
